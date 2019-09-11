@@ -6,6 +6,8 @@ schedule the  courses. The system is expected to serve as the link between the l
 The system should be able to provide lecturers options which fulfil as many requirements as possible while avoiding strong inconveniences. All constraints must be clearly identified
 and algorithms that enable the lecturer and the study coordinator to interact efficiently should be developed. These algorithms should therefore optimize the scheduling process.
 Also a database should be incorporated and the front ends should be coded.
+The database model of this project looks like the following.
+![UCSS](/static/DB_model.jpg)
 
 ### Prerequisites
 ```
