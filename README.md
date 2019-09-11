@@ -12,19 +12,20 @@ Also a database should be incorporated and the front ends should be coded.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+```
 *Python 2.7
 *python Flask  
 *Flask mail
 *Python constraint
 *regular expression
 *bcrypt
-
+```
 ### Installing
 
 Download the zip file or clone the repository to your local folder.
 
 Install python 2.7
-```
+
 Install python flask
 ```
 pip install Flask
