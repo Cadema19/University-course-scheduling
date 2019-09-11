@@ -42,10 +42,14 @@ Install bcrypt
 ```
 pip install bcrypt
 ```
+Open command prompt and navigate to the UCSS folder and run the below command
+```
+python coco_app.py
+```
 
 ### Usage
 
-#Types of Users
+Types of Users
 
     Study Coordinator
     Lecturer
