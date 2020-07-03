@@ -1,1 +1,3 @@
 connect to slack
+
+new channel and subscribed to github
